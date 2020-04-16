@@ -25,7 +25,7 @@ SECRET_KEY = 't$9bp5f7g!1l3d!t6$7e$*#c$@-!s#8cf9x*7r2n(vf@d7(9hq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['testingsite.pyhost.io']
+ALLOWED_HOSTS = ['channels-test-2.com']
 
 
 # Application definition
