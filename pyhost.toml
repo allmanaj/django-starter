@@ -1,5 +1,5 @@
 [config]
-requirements = "requirements/staging.txt"
+requirements = "requirements/all.txt"
 # changing the `settings` variable will change your DJANGO_SETTINGS_MODULE environment variable
 settings = "config.settings.local"
 # OR
