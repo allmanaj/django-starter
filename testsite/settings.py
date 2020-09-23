@@ -25,7 +25,7 @@ SECRET_KEY = 't$9bp5f7g!1l3d!t6$7e$*#c$@-!s#8cf9x*7r2n(vf@d7(9hq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['tom-jones-site.pyhost.io', "basic-test-2.com"]
+ALLOWED_HOSTS = ['tom-jones-site.pyhost.io', "basic-test-2.com", "hello-world.com"]
 
 
 # Application definition
